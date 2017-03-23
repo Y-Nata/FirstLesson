@@ -11,6 +11,10 @@ public class rectangle {
         this.x = x;
         this.y = y;
         //hghgjg
+        //cdxvdc  bdfb ddb
+        //njknm jvj nvjbmvjvjvjvjbj
+        //hkbkbk jbkbklkjhljhkjhkjhbk
+
     }
 
     public rectangle(){
